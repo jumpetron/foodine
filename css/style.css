@@ -101,3 +101,37 @@ h1{
     font-family: 'Lobster', cursive;
     background-size: cover;
 }
+
+.news{
+    background-color: black;
+    color: #ffff;
+}
+
+.btn2{
+    height: 45px;
+    width: 100px;
+    border: 2px solid #ffff;
+    outline: none;
+    background: #ffff;
+    margin-left: -10px;
+    font-weight: 600;
+}
+
+.news input{
+    height: 45px;
+    width: 55%;
+    border: 2px solid #fff;
+    outline: none;
+    background: black;
+    color: #fff;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.news input::placeholder{
+    color: #ffff;
+}
+
+.news p{
+    margin: 0;
+}
